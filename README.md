@@ -37,11 +37,11 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/abhinandanraj">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/Chatkiat">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Chatkiat&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/abhinandanraj/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/Chatkiat/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chatkiat&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
