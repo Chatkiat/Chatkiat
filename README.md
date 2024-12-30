@@ -1,59 +1,50 @@
+# Hi there, I'm Chatkiat! 👋
 
-<h1 align="center">Hello 👋, I'm Chatkiat  🎯️🚀️</h1>
-<h3 align="center">Hey it's me Chatkiat..</h3>
+Welcome to my GitHub profile! I'm a passionate developer with expertise in various technologies and a keen interest in continuous learning and development. Here’s a bit more about me:
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+## 🚀 About Me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+- 🌱 I’m currently learning advanced topics in AI and machine learning.
+- 👨‍💻 I enjoy working on open-source projects and contributing to the developer community.
+- 💬 Ask me about web development, Python, JavaScript, or anything tech-related.
+- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
 
-- 🔭 I’m currently working on **Coding Skills.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
-- 💬 Ask me about **JS,TS, HTML and CSS.**
+## 🛠️ Skills
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandanraj&theme=radical&hide_border=true"/>
-</p>
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Databases**: MySQL, MongoDB
+- **Tools & Technologies**: Git, Docker, Kubernetes
+- **Cloud Platforms**: AWS, Azure
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+## 📈 GitHub Stats
 
-<p align="center"> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 	 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="40" height="40" /></a> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a><a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
-</p>
+![Chatkiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chatkiat&show_icons=true&theme=radical)
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
+## 🏆 Achievements
 
-<p align="center">
-<a href="https://www.linkedin.com/in/chatkiat-sriphuttha-96ab6b260/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="chatkiat" /></a>
-<a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
-<a href="mrchatkiat409@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinandanraj&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
+- Contributed to [Open Source Project](https://github.com/) that reached 1000+ stars
+- Completed [XYZ Certification](https://example.com) in Cloud Computing
+- Winner of [Hackathon Name](https://example.com) 2023
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## 📚 Blog Posts
 
-<details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/Chatkiat">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Chatkiat&show_icons=true&theme=radical&count_private=true">
-  </a>
-  <a href="https://github.com/Chatkiat/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chatkiat&layout=compact&theme=radical&langs_count=6" />
-  </a>
- </p>
-</details>
+- [How to Build a REST API with Node.js](https://example.com)
+- [Understanding Machine Learning Algorithms](https://example.com)
+- [Top 10 Tips for Clean Code](https://example.com)
 
+## 🌐 Connect with Me
 
-<details>
-  <br />
-  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
-  	<ul>
-  	   <li><b>OS:</b> Windows 11 </li>
-	     <li><b>Laptop: </b> MSI Bravo 15 (AMD RYZEN 5)</li>
-  	   <li><b>Browser: </b> Firefox Web Browser</li>
-	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Linkedin </li>
-	    <br />
-	</ul>
-</details>
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Personal Website](https://yourwebsite.com)
+
+## 💡 Projects
+
+Here are some of the projects I'm proud of:
+
+- [Project Name](https://github.com/Chatkiat/project-name): Brief description of the project.
+- [Project Name](https://github.com/Chatkiat/project-name): Brief description of the project.
+- [Project Name](https://github.com/Chatkiat/project-name): Brief description of the project.
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
