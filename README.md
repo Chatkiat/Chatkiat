@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in vario
 - 🌱 I’m currently learning advanced topics in AI and machine learning.
 - 👨‍💻 I enjoy working on open-source projects and contributing to the developer community.
 - 💬 Ask me about web development, Python, JavaScript, or anything tech-related.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: [mrchatkiat409@gmail.com](mailto:your-email@example.com)
 
 ## 🛠️ Skills
 
